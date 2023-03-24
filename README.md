@@ -1,2 +1,2 @@
 # gamev2
-Slither game v.2
+Slither game v.2 🐍
